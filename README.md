@@ -1,0 +1,1 @@
+# Inteligencia-no-Negocio-para-aplicacao-em-Telecomunicacoes
