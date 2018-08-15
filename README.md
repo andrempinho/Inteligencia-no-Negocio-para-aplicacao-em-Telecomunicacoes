@@ -1,1 +1,1 @@
-# Inteligencia-no-Negocio-para-aplicacao-em-Telecomunicacoes
+# Inteligência no Negócio para aplicação em Telecomunicações
