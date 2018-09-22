@@ -9,3 +9,11 @@ Hoje, as telecomunicações fazem parte da vida das pessoas, empresas e organiza
 * Python
 * Data Mining
 * Time Series Analysis
+
+
+### Relatório
+* [Pdf](https://github.com/andrempinho/Inteligencia-no-Negocio-para-aplicacao-em-Telecomunicacoes/blob/master/Relatório.pdf)
+
+
+### Artigo
+* [Pdf](https://github.com/andrempinho/Inteligencia-no-Negocio-para-aplicacao-em-Telecomunicacoes/blob/master/Experimental Comparison and Tuning of Time Series Prediction for Telecom Analysis.pdf)
