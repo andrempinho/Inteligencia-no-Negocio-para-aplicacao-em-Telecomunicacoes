@@ -15,5 +15,5 @@ Hoje, as telecomunicações fazem parte da vida das pessoas, empresas e organiza
 * [Pdf](https://github.com/andrempinho/Inteligencia-no-Negocio-para-aplicacao-em-Telecomunicacoes/blob/master/Relatório.pdf)
 
 
-### Artigo
-* Experimental Comparison and Tuning of Time Series Prediction for Telecom Analysis [Pdf](https://github.com/andrempinho/Inteligencia-no-Negocio-para-aplicacao-em-Telecomunicacoes/blob/master/Experimental%20Comparison%20and%20Tuning%20of%20Time%20Series%20Prediction%20for%20Telecom%20Analysis.pdf)
+### Artigo - Experimental Comparison and Tuning of Time Series Prediction for Telecom Analysis
+* [Pdf](https://github.com/andrempinho/Inteligencia-no-Negocio-para-aplicacao-em-Telecomunicacoes/blob/master/Experimental%20Comparison%20and%20Tuning%20of%20Time%20Series%20Prediction%20for%20Telecom%20Analysis.pdf)
