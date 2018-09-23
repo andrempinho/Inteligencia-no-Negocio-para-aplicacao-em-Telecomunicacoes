@@ -12,7 +12,7 @@ Hoje, as telecomunicações fazem parte da vida das pessoas, empresas e organiza
 
 
 ### Relatório
-* [Pdf](https://github.com/andrempinho/Inteligencia-no-Negocio-para-aplicacao-em-Telecomunicacoes/blob/master/Relatório.pdf)
+* [Pdf](https://github.com/andrempinho/Inteligencia-no-Negocio-para-aplicacao-em-Telecomunicacoes/blob/master/Relat%C3%B3rio%20de%20est%C3%A1gio.pdf)
 
 
 ### Artigo - Experimental Comparison and Tuning of Time Series Prediction for Telecom Analysis
