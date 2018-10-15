@@ -7,8 +7,11 @@ Hoje, as telecomunicações fazem parte da vida das pessoas, empresas e organiza
 
 ### Tecnologias
 * Python
-* Data Mining
-* Time Series Analysis
+* Scikit-learn
+* Statsmodels
+* Mlxtend
+* Flask
+* PostgreSQL
 
 
 ### Relatório
